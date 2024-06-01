@@ -13,7 +13,6 @@ namespace ConsoleApplication9
 
             Console.WriteLine("Git Demo");
 
-            Console.WriteLine("Welcme to Trichy");
         }
     }
 }
